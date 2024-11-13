@@ -1,0 +1,8 @@
+package uk.ac.ed.inf.aqmaps;
+
+public class Sensor {
+	static String location;
+	double battery;
+	String reading;
+
+}

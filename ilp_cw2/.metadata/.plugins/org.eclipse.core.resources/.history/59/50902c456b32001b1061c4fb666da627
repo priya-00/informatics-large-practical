@@ -1,0 +1,12 @@
+package uk.ac.ed.inf.aqmaps;
+
+public class LocationDetails {
+	String country;
+	String nearestPlace;
+	Coordinates coord;
+	public static class Coordinates{
+		double lng;
+		double lat;
+	}
+
+}
